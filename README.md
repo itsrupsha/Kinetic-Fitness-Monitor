@@ -9,7 +9,7 @@
 
 | Login Page | Dashboard | Food Log |
 |---|---|---|
-| ![Login](asset/Login.png) | ![Dashboard](asset/Dashboard.png) <br> ![Dashboard 2](asset/Dashboard2.png) | ![Food](asset/food.png) |
+| ![Login](asset/Login.png) | ![Dashboard](asset/Dashboard.png) <br> ![Dashboard 2](asset/Dashboard2.png) | ![Food](asset/food.png) <br> ![Food](asset/food2.png)|
 
 | Activity Log | Profile | Onboarding |
 |---|---|---|
