@@ -6,8 +6,6 @@
 
 ## 📸 Project Screenshots
 
-*(Add your screenshots here)*
-
 | Login Page | Dashboard | Food Log |
 |---|---|---|
 | ![Login](asset/Login.png) | ![Dashboard](screenshots/dashboard.png) | ![Food](screenshots/food.png) |
