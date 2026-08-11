@@ -9,7 +9,7 @@
 
 | Login Page | Dashboard | Food Log |
 |:----------:|:---------:|:--------:|
-| <img src="asset/Login.png" width="250"/> | <img src="asset/dashboard.png" width="250"/><br><img src="asset/Dashboard2.png" width="250"/> | <img src="asset/food.png" width="250"/><br><img src="asset/food2.png" width="250"/> |
+| <img src="asset/Login.png" width="250"/> | <img src="asset/Dashboard.png" width="250"/><br><img src="asset/Dashboard2.png" width="250"/> | <img src="asset/food.png" width="250"/><br><img src="asset/food2.png" width="250"/> |
 
 | Activity Log | Profile |
 |:------------:|:-------:|
