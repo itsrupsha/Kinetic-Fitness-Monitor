@@ -1,6 +1,7 @@
 # Kinetic — Fitness & Nutrition Tracker
 
-A fitness tracking app I built to get better at React and TypeScript. It tracks your meals, workouts, and body metrics — with a custom UI I designed from scratch (no UI libraries).
+> **A full-stack fitness tracking application** built with React, TypeScript, Tailwind CSS, and Strapi. Track nutrition, log workouts, monitor body metrics, and visualize progress — all in a beautiful, modern interface.
+
 
 ---
 
