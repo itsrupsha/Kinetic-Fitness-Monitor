@@ -13,7 +13,7 @@
 
 | Activity Log | Profile | Onboarding |
 |---|---|---|
-| ![Activity](asset/activity.png) <br> ![Activity](asset/activity2.png) | ![Profile](asset/profile.png) | ![Onboarding](asset/onboarding.png) |
+| ![Activity](asset/activity.png) <br> ![Activity](asset/activity2.png) | ![Profile](asset/profile.png) <br> ![Profile](asset/profile2.png) | ![Onboarding](asset/onboarding.png) |
 
 ---
 
