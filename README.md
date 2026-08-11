@@ -8,12 +8,12 @@
 ## 📸 Screenshots
 
 | Login Page | Dashboard | Food Log |
-|---|---|---|
-| ![Login](asset/Login.png) | ![Dashboard](asset/Dashboard.png) <br> ![Dashboard 2](asset/Dashboard2.png) | ![Food](asset/food.png) <br> ![Food](asset/food2.png)|
+|:----------:|:---------:|:--------:|
+| <img src="asset/Login.png" width="250"/> | <img src="asset/dashboard.png" width="250"/><br><img src="asset/Dashboard2.png" width="250"/> | <img src="asset/food.png" width="250"/><br><img src="asset/food2.png" width="250"/> |
 
 | Activity Log | Profile |
-|---|---|---|
-| ![Activity](asset/activity.png) <br> ![Activity](asset/activity2.png) | ![Profile](asset/profile.png) <br> ![Profile](asset/profile2.png) |
+|:------------:|:-------:|
+| <img src="asset/activity.png" width="250"/><br><img src="asset/activity2.png" width="250"/> | <img src="asset/profile.png" width="250"/><br><img src="asset/profile2.png" width="250"/> |
 
 ---
 
