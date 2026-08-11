@@ -11,7 +11,7 @@
 |---|---|---|
 | ![Login](asset/Login.png) | ![Dashboard](asset/Dashboard.png) <br> ![Dashboard 2](asset/Dashboard2.png) | ![Food](asset/food.png) <br> ![Food](asset/food2.png)|
 
-| Activity Log | Profile | Onboarding |
+| Activity Log | Profile |
 |---|---|---|
 | ![Activity](asset/activity.png) <br> ![Activity](asset/activity2.png) | ![Profile](asset/profile.png) <br> ![Profile](asset/profile2.png) |
 
