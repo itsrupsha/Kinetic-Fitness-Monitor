@@ -10,7 +10,7 @@
 
 | Login Page | Dashboard | Food Log |
 |---|---|---|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Food](screenshots/food.png) |
+| ![Login](asset/Login.png) | ![Dashboard](screenshots/dashboard.png) | ![Food](screenshots/food.png) |
 
 | Activity Log | Profile | Onboarding |
 |---|---|---|
