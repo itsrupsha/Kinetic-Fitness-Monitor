@@ -3,7 +3,7 @@ import { useAppContext } from "../context/AppContext"
 import { useTheme } from "../context/ThemeContext";
 import type { ProfileFormData, UserData } from "../types";
 import Card from "../components/ui/Card";
-import { Calendar, Camera, LogOut, Moon, Sun, Target, Trophy, User, Zap, TrendingUp, Award, ChevronRight, Pencil } from "lucide-react";
+import { Calendar, LogOut, Moon, Sun, Target, Trophy, User, Zap, TrendingUp, Award, ChevronRight, Pencil } from "lucide-react";
 import Button from "../components/ui/Button";
 import { goalLabels, goalOptions } from "../assets/assets";
 import Input from "../components/ui/Input";
@@ -239,7 +239,7 @@ const Profile = () => {
                                         </div>
                                         <div>
                                             <p className="text-xs text-slate-500 dark:text-slate-400">BMI</p>
-                                            {user.height ? (
+                                            {user.height && user.weight != null ? (
                                                 <p className="font-bold text-slate-900 dark:text-white">{(user.weight / Math.pow(user.height / 100, 2)).toFixed(1)}</p>
                                             ) : (
                                                 <p className="font-bold text-slate-400">--</p>
