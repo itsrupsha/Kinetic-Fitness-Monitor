@@ -4,7 +4,7 @@ import type { FoodEntry, FormData } from "../types";
 import Card from "../components/ui/Card";
 import { mealColors, mealIcons, mealTypeOptions, quickActivitiesFoodLog } from "../assets/assets";
 import Button from "../components/ui/Button";
-import { Loader2, Plus, Sparkles, Trash2, UtensilsCrossed, ChevronRight, Clock, Flame } from "lucide-react";
+import { Loader2, Plus, Sparkles, Trash2, UtensilsCrossed, Clock, Flame } from "lucide-react";
 import Input from "../components/ui/Input";
 import Select from "../components/ui/Select";
 import mockApi from "../assets/mockApi";
@@ -23,7 +23,7 @@ const FoodLog = () => {
     const [entries, setEntries] = useState<FoodEntry[]>([]);
     const [showForm, setShowForm] = useState(false);
     const [formData, setFormData] = useState<FormData>({ name: '', calories: 0, mealType: '' });
-    const [loading, setLoading] = useState(false);
+    const [loading] = useState(false);
     const inputRef = useRef<HTMLInputElement>(null)
     const today = new Date().toISOString().split('T')[0];
 

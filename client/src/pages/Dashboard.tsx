@@ -4,7 +4,7 @@ import { useAppContext } from "../context/AppContext"
 import type { ActivityEntry, FoodEntry } from "../types"
 import Card from "../components/ui/Card"
 import ProgressBar from "../components/ui/ProgressBar"
-import { Activity, Flame, Footprints, Heart, Ruler, Scale, Timer, TrendingUp, Zap } from "lucide-react"
+import { Flame, Footprints, Heart, Ruler, Scale, Timer, TrendingUp, Zap } from "lucide-react"
 import CaloriesChart from "../components/CaloriesChart"
 
 const Dashboard = () => {
